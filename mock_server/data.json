@@ -1,0 +1,317 @@
+{
+  "hot": [
+    {
+      "title": "Latte",
+      "description": "As the most popular coffee drink out there, the latte is made with a shot of espresso and steamed milk, with just a touch of foam. It can be ordered plain or flavored with everything from vanilla to pumpkin spice.",
+      "ingredients": [
+        "Espresso",
+        "Steamed milk"
+      ],
+      "image": "https://images.unsplash.com/photo-1561882468-9110e03e0f78?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGxhdHRlfGVufDB8fDB8fHww",
+      "id": 2
+    },
+    {
+      "title": "Caramel Latte",
+      "description": "If you like flavored lattes, a caramel latte is a great choice, combining espresso, steamed milk, and caramel for a naturally sweet and creamy drink.",
+      "ingredients": [
+        "Espresso",
+        "Steamed milk",
+        "Caramel syrup"
+      ],
+      "image": "https://images.unsplash.com/photo-1599398054066-846f28917f38?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 3
+    },
+    {
+      "title": "Cappuccino",
+      "description": "A cappuccino is an espresso drink with steamed milk and a thick layer of foam, often topped with cocoa powder or cinnamon. Some variations use cream instead of milk or add flavored syrups.",
+      "ingredients": [
+        "Espresso",
+        "Steamed milk",
+        "Foam"
+      ],
+      "image": "https://images.unsplash.com/photo-1557006021-b85faa2bc5e2?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 4
+    },
+    {
+      "title": "Espresso",
+      "description": "A shot of espresso can be served on its own or used as the base for most coffee drinks, like lattes and macchiatos.",
+      "ingredients": [
+        "Espresso"
+      ],
+      "image": "https://images.unsplash.com/photo-1579992357154-faf4bde95b3d?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 6
+    },
+    {
+      "title": "Macchiato",
+      "description": "An espresso macchiato is a shot of espresso marked with a small dollop of foam. It is stronger and smaller than a cappuccino or latte.",
+      "ingredients": [
+        "Espresso",
+        "Foam"
+      ],
+      "image": "https://images.unsplash.com/photo-1557772611-722dabe20327?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 7
+    },
+    {
+      "title": "Mocha",
+      "description": "For all the chocolate lovers out there, a mocha is an easy favorite. It is a chocolate espresso drink made with steamed milk and foam.",
+      "ingredients": [
+        "Espresso",
+        "Steamed milk",
+        "Chocolate"
+      ],
+      "image": "https://images.unsplash.com/photo-1607260550778-aa9d29444ce1?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 8
+    },
+    {
+      "title": "Hot Chocolate",
+      "description": "A classic warm drink made with chocolate and steamed milk. Rich, cozy, and especially good on cold days.",
+      "ingredients": [
+        "Chocolate",
+        "Milk"
+      ],
+      "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDh8fGhvdCUyMGNob2NvbGF0ZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 9
+    },
+    {
+      "title": "Chai Latte",
+      "description": "A spiced tea latte made with black tea, steamed milk, and warming spices such as ginger, cardamom, and cinnamon.",
+      "ingredients": [
+        "Tea",
+        "Milk",
+        "Ginger",
+        "Cardamom",
+        "Cinnamon"
+      ],
+      "image": "https://images.unsplash.com/photo-1578899952107-9c390f1af1b7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGNoYWklMjBsYXR0ZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 10
+    },
+    {
+      "title": "Matcha Latte",
+      "description": "A matcha latte is a green tea drink made with finely ground matcha and milk, offering mild sweetness, a distinctive flavor, and a gentle caffeine boost.",
+      "ingredients": [
+        "Matcha powder",
+        "Milk",
+        "Sugar*"
+      ],
+      "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bWF0Y2hhJTIwbGF0dGV8ZW58MHx8MHx8fDA%3D",
+      "id": 11
+    },
+    {
+      "title": "Seasonal Brew",
+      "description": "A seasonal coffee with flavor notes that can include caramel, fruit, and chocolate.",
+      "ingredients": [
+        "Coffee"
+      ],
+      "image": "https://images.unsplash.com/photo-1611162458324-aae1eb4129a4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxibGFjayUyMGNvZmZlZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 12
+    },
+    {
+      "title": "Black Tea",
+      "description": "Black tea is made from the leaves of the Camellia sinensis plant. It can be enjoyed plain or flavored with fruit, spices, or other additions.",
+      "ingredients": [
+        "Tea"
+      ],
+      "image": "https://images.unsplash.com/photo-1576092768241-dec231879fc3?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHRlYXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 13
+    },
+    {
+      "title": "Iced Latte",
+      "description": "An iced latte is espresso poured over ice and cold milk. Sweet syrup is optional, and it is also known as an iced cafe latte.",
+      "ingredients": [
+        "Espresso",
+        "Milk",
+        "Ice",
+        "Syrup"
+      ],
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1dba5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aWNlZCUyMGxhdHRlfGVufDB8fDB8fHww",
+      "id": 14
+    },
+    {
+      "title": "Iced Mocha Latte",
+      "description": "An iced mocha latte combines a latte with mocha flavors, bringing together chocolate and coffee in a rich and refreshing drink.",
+      "ingredients": [
+        "Espresso",
+        "Ice",
+        "Milk",
+        "Chocolate"
+      ],
+      "image": "https://images.unsplash.com/photo-1642647391072-6a2416f048e5?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fGljZWQlMjBtb2NoYSUyMGxhdHRlfGVufDB8fDB8fHww",
+      "id": 15
+    },
+    {
+      "title": "Blended Caramel Coffee",
+      "description": "A blended iced coffee with caramel syrup, milk, and ice, topped with whipped cream and caramel sauce.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Milk",
+        "Caramel syrup",
+        "Whipped cream*",
+        "Caramel sauce"
+      ],
+      "image": "https://images.unsplash.com/photo-1662047102608-a6f2e492411f?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMGNhcmFtZWx8ZW58MHx8MHx8fDA%3D",
+      "id": 16
+    },
+    {
+      "title": "Blended Mocha Coffee",
+      "description": "A blended iced mocha with coffee, milk, cocoa, and ice, finished with whipped cream for a chocolate shake-like treat.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Milk",
+        "Cocoa",
+        "Whipped cream*"
+      ],
+      "image": "https://images.unsplash.com/photo-1530373239216-42518e6b4063?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8ZnJhcGlubyUyMG1vY2hhfGVufDB8fDB8fHww",
+      "id": 17
+    },
+    {
+      "title": "Orange Juice",
+      "description": "Freshly squeezed orange juice served cold over ice.",
+      "ingredients": [
+        "Fresh oranges",
+        "Ice"
+      ],
+      "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzF8fG9yYW5nZSUyMGp1aWNlfGVufDB8fDB8fHww",
+      "id": 18
+    },
+    {
+      "title": "Frozen Lemonade",
+      "description": "Frozen lemonade is a refreshing summer drink that combines freshly squeezed lemon juice, ice, and sweetener into a cool, tangy treat.",
+      "ingredients": [
+        "Lemon juice",
+        "Ice",
+        "Sugar*"
+      ],
+      "image": "https://images.unsplash.com/photo-1523371054106-bbf80586c38c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGxlbW9uYWRlJTIwd2l0aCUyMGljZXxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 19
+    },
+    {
+      "title": "Lemonade",
+      "description": "A sweet-tart sparkling lemonade made with lemon juice, carbonated water, and honey.",
+      "ingredients": [
+        "Lemon juice",
+        "Sparkling water",
+        "Honey"
+      ],
+      "image": "https://images.unsplash.com/photo-1621263764928-df1444c5e859?auto=format&fit=crop&q=60&w=800&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bGVtb25hZGV8ZW58MHx8MHx8fDA%3D",
+      "id": 20
+    },
+    {
+      "title": "Black CoffeeTest",
+      "description": "Black coffee is as simple as it gets with ground coffee beans steeped in hot water, served warm. And if you want to sound fancy, you can call black coffee by its proper name: cafe noir.",
+      "ingredients": [
+        "Coffee"
+      ],
+      "image": "https://images.unsplash.com/photo-1494314671902-399b18174975?auto=format&fit=crop&q=80&w=1887&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "id": 55
+    },
+    {
+      "title": "test",
+      "description": "testasdfsaf",
+      "image": "",
+      "ingredients": [
+        "test",
+        "dddd",
+        "s"
+      ],
+      "id": 56
+    },
+    {
+      "title": "test",
+      "description": "testresdfasdf",
+      "image": "",
+      "ingredients": [
+        "test",
+        "tesd",
+        "sa"
+      ],
+      "id": 57
+    },
+    {
+      "title": "string",
+      "description": "string",
+      "ingredients": "array",
+      "image": "string",
+      "id": "number"
+    },
+    {
+      "title": "Robert",
+      "description": "coffee coffee",
+      "ingredients": "milk and sugar",
+      "image": "hello.com/abc",
+      "id": "123456"
+    }
+  ],
+  "iced": [
+    {
+      "title": "Iced Coffee",
+      "description": "A coffee with ice, typically served with a dash of milk, cream or sweetener—iced coffee is really as simple as that.",
+      "ingredients": [
+        "Coffee",
+        "Ice",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Blue_Bottle%2C_Kyoto_Style_Ice_Coffee_%285909775445%29.jpg",
+      "id": 1
+    },
+    {
+      "title": "Iced Espresso",
+      "description": "Like iced coffee, iced espresso can be served straight or with a dash of milk, cream, or sweetener. You can also ice specialty espresso-based drinks like americanos, mochas, macchiatos, lattes, and flat whites.",
+      "ingredients": [
+        "Espresso",
+        "Ice",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Home_Made_Ice_Coffee.jpg",
+      "id": 2
+    },
+    {
+      "title": "Cold Brew",
+      "description": "The trendiest of the iced coffee bunch, cold brew coffees are made by steeping coffee beans from anywhere between 6-36 hours, depending on how strong you would like your cold brew. Once the beans are done steeping, add cold milk or cream.",
+      "ingredients": [
+        "Long steeped coffee",
+        "Ice"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/ColdBrewCoffeein_Cans.png/640px-ColdBrewCoffeein_Cans.png",
+      "id": 3
+    },
+    {
+      "title": "Frappuccino",
+      "description": "Made famous by Starbucks, the Frappuccino is a blended iced coffee drink topped with whipped cream and syrup.",
+      "ingredients": [
+        "Espresso",
+        "Blended ice",
+        "Whip*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Strawberry_Delight_Frappuccino.JPG",
+      "id": 4
+    },
+    {
+      "title": "Nitro",
+      "description": "A cold brew + nitrogen bubbles = a cold brew coffee with a frothy, Guinness-like consistency. (It’s poured via a nitro tap, too.)",
+      "ingredients": [
+        "Coffee",
+        "Nitrogen bubbles",
+        "Sugar*",
+        "Cream*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Nitro_Cold_Brew.jpg",
+      "id": 5
+    },
+    {
+      "title": "Mazagran",
+      "description": "Mazagran coffee is a cross between iced coffee, tea and your favorite rum drink. It typically consists of espresso, lemon, sugar and (sometimes) rum.",
+      "ingredients": [
+        "Coffee",
+        "Sugar",
+        "Lemon",
+        "Rum*"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Caf%C3%A9_mazagran.jpg",
+      "id": 6
+    }
+  ]
+}
